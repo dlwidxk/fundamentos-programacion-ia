@@ -1,0 +1,8 @@
+¿Qué es un bucle?
+Es una estructura de control que repite un bloque de código varias veces mientras se cumpla una condición (o un número fijo de veces).
+
+¿Para qué sirve?
+Para automatizar tareas repetitivas, procesar listas de datos, esperar eventos, etc.
+
+Actividad repetitiva cotidiana:
+Preparar varias tazas de café: "Mientras haya tazas por llenar, repetir: poner café, agregar agua caliente, servir".
