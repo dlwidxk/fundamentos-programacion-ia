@@ -1,0 +1,10 @@
+¿Qué es una variable?
+Es un espacio en memoria que almacena un valor que puede cambiar durante la ejecución de un programa. Tiene un nombre y un tipo (número, texto, booleano, etc.).
+
+¿Para qué se utilizan las variables?
+Para guardar datos temporales, manipular información, contar repeticiones, almacenar resultados de operaciones y hacer que el código sea dinámico y reutilizable.
+
+Tres ejemplos de información que podría almacenar una variable:
+- Edad de un usuario (número entero).
+- Nombre completo (cadena de texto).
+- Estado de un pedido (booleano: pagado/no pagado).
