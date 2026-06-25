@@ -1,0 +1,11 @@
+¿Qué es un prompt?
+Un prompt es una instrucción o pregunta que se le da a un modelo de inteligencia artificial para obtener una respuesta. Es la entrada que define lo que queremos que el sistema genere.
+
+¿Por qué es importante escribir buenos prompts?
+Porque de la claridad y precisión del prompt depende la calidad y relevancia de la respuesta. Un prompt vago puede dar respuestas genéricas o incorrectas.
+
+Tres recomendaciones para crear mejores prompts:
+1. Ser específico y detallado: incluir contexto, formato deseado y restricciones.
+2. Usar ejemplos: mostrar al modelo lo que se espera.
+3. Iterar y refinar: probar diferentes versiones y ajustar según los resultados.
+
