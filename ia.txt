@@ -1,0 +1,15 @@
+¿Qué es la inteligencia artificial?
+Es la rama de la computación que busca crear sistemas capaces de realizar tareas que requieren inteligencia humana, como el razonamiento, aprendizaje, percepción y lenguaje.
+
+¿Cómo puede ayudar a un desarrollador?
+Automatizando tareas repetitivas (generación de código, pruebas), sugiriendo soluciones, depurando errores, documentando, y mejorando la productividad.
+
+Ventajas:
+- Acelera el desarrollo.
+- Reduce errores humanos.
+- Permite procesar grandes volúmenes de datos.
+
+Limitaciones:
+- Puede generar respuestas incorrectas o sesgadas.
+- Requiere supervisión humana.
+- Depende de la calidad de los datos de entrenamiento.
