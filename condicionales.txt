@@ -1,0 +1,8 @@
+¿Qué es un condicional?
+Es una estructura de control que permite ejecutar diferentes bloques de código según se cumpla o no una condición (expresión booleana).
+
+¿Para qué sirve?
+Permite tomar decisiones en el programa, haciendo que el flujo se adapte a diferentes situaciones.
+
+Situación cotidiana:
+Decidir si llevar paraguas al salir de casa: "Si está lloviendo, entonces llevo paraguas; si no, no lo llevo".
